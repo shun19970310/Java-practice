@@ -1,4 +1,4 @@
-public class Enzanshi01 {
+public class Else01 {
   public static void main(String[] args) {
     int number = 12;
     // numberが20より小さいとき、どちらでもないときの条件分岐を追加してください
